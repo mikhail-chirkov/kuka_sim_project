@@ -1,6 +1,6 @@
 # kuka_sim_project
 
-There are various robots performing operations such as welding, inspecting, storing.
+There are various robots performing different operations such as welding, inspecting, storing.
 
 Full workflow demonstration: https://youtu.be/ID53-LmafQE
 
